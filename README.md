@@ -1,8 +1,6 @@
 ## Deployed on Vercel at: https://next-js-cocktailbar.vercel.app/
 
-<img src="screenshot1.png" width="150">
-<img src="screenshot2.png" width="150">
-<img src="screenshot3.png" width="150">
+<img src="screenshot1.png" width="150"> <img src="screenshot2.png" width="150"> <img src="screenshot3.png" width="150">
 
 ### The Cocktail Bar
 
