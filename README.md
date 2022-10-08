@@ -1,3 +1,9 @@
+# Deployed on Vercel at: https://next-js-cocktailbar.vercel.app/
+
+<img src="screenshot1.png" width="300">
+<img src="screenshot2.png" width="300">
+<img src="screenshot3.png" width="300">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
